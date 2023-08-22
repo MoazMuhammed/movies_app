@@ -1,0 +1,3 @@
+class MoviesModel extends Movies{
+
+}
